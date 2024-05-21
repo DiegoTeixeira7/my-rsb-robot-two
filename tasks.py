@@ -1,4 +1,3 @@
-# https://medium.com/@swapneil.basutkar/robocorp-level-2-python-rpa-bot-a8a6811545b2
 from robocorp.tasks import task
 from robocorp import browser
 
